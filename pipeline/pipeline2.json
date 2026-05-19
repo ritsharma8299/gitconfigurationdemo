@@ -14,6 +14,9 @@
 					"secureInput": false
 				},
 				"userProperties": [],
+				"typeProperties": {
+					"notebookPath": "/Users/updazvmnag_1777788724493@npupgradassessment.onmicrosoft.com/New Notebook 2026-05-19 09:06:39"
+				},
 				"linkedServiceName": {
 					"referenceName": "AzureDatabricks1",
 					"type": "LinkedServiceReference"
